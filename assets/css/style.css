@@ -1,0 +1,11 @@
+
+/* Custom overrides */
+:root{
+  --accent: #0f172a;
+}
+/* improve shadows for cards */
+.shadow-sm {
+  box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+}
+/* make images crisp */
+img { image-rendering: auto; }
